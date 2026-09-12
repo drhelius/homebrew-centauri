@@ -1,15 +1,17 @@
-# DrHelius Homebrew Tap
+# SMAC Launcher Homebrew Tap
 
 Install SMAC Launcher on macOS:
 
 ```sh
-brew install --cask drhelius/drhelius/smac-launcher
+brew install --cask drhelius/centauri/smac-launcher
 ```
+
+If Homebrew asks you to trust the third-party tap, run `brew trust --tap drhelius/centauri`, then retry the install command.
 
 Or add the tap first:
 
 ```sh
-brew tap drhelius/drhelius
+brew tap drhelius/centauri
 brew install --cask smac-launcher
 ```
 
