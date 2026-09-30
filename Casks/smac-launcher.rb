@@ -1,6 +1,6 @@
 cask "smac-launcher" do
-  version "1.1.0"
-  sha256 "7329b7f28801f5e92f7a93455881215faabbdaaa8a1d435ddbe77e91e838cc93"
+  version "1.1.1"
+  sha256 "cbece1b8ae71f5948e4a95b43eea347717fe9f73bdea3b2dc01f487c0a919c4c"
 
   url "https://github.com/drhelius/smac-gog-mac-launcher/releases/download/#{version}/SMAC-Launcher-#{version}-macOS.zip"
   name "SMAC Launcher"
